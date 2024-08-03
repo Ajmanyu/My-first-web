@@ -1,0 +1,27 @@
+body{
+
+    background-image: url(Imagenes/Verde.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+
+}
+
+.Contenedor{
+
+    display: Flex;    
+
+}
+
+
+.imagen-1{
+    width: 120px;
+    height: 120px;
+    
+}
+
+.imagen-2{
+    width: 120px;
+    height: 120px;
+}
+
